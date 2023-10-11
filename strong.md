@@ -16,3 +16,15 @@ Hello <b>this</b> is bold
 
 
 ![Image rendered directly without a click](midjourney.webp)  
+
+
+> "This is how to create block statements, especially those highlighted in speech"
+
+1. create numerical lists of numbers
+- listing
+* listing  
+    - Other listing
+
+    1. hello  
+    2. there  
+    3. I hope that you're doing well over there
