@@ -28,3 +28,16 @@ Hello <b>this</b> is bold
     1. hello  
     2. there  
     3. I hope that you're doing well over there
+
+# Code snippets  
+```sh
+sudo apt install python3
+```
+
+```sh
+pip install tensorflow
+```
+
+```python
+import tensorflow as tf
+```
